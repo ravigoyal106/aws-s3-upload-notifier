@@ -1,0 +1,27 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+.terraform.lock.hcl.bak
+
+# Build artifacts
+function.zip
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets and local config
+.env
+*.pem
+*.key
+.aws/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
