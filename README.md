@@ -269,10 +269,6 @@ The `Condition` limits invocation to your own bucket and account. This protects 
 
 ![KeyError](screenshots/LambdaError.png)
 
-![Invalid ARN](screenshots/17-error-invalid-topic-arn.png)
-
-![Fixed ARN](screenshots/18-fix-topic-arn.png)
-
 </details>
 
 ### Quick checklist
